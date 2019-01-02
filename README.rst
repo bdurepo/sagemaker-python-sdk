@@ -295,7 +295,10 @@ Here is an end-to-end example:
 For detailed examples of running Docker in local mode, see:
 
 - `TensorFlow local mode example notebook <https://github.com/awslabs/amazon-sagemaker-examples/blob/master/sagemaker-python-sdk/tensorflow_distributed_mnist/tensorflow_local_mode_mnist.ipynb>`__.
-- `MXNet local mode example notebook <https://github.com/awslabs/amazon-sagemaker-examples/blob/master/sagemaker-python-sdk/mxnet_gluon_mnist/mnist_with_gluon_local_mode.ipynb>`__.
+- `MXNet local mode example notebook <https://github.com/awslabs/amazon-sagemaker-examples/blob/9bb15ec4e2a3754b1723dfa390b27cba733f8d17/sagemaker-python-sdk/mxnet_gluon_mnist/mnist_with_gluon_local_mode.ipynb>`__.
+
+ amazon-sagemaker-examples/sagemaker-python-sdk/mxnet_gluon_mnist/mnist_with_gluon_local_mode.ipynb
+
 
 A few important notes:
 
